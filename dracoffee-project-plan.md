@@ -71,7 +71,11 @@ Pada tahap ini kita akan mengeksplorasi branding dari system yang dibuat. Brandi
     o	Menginspirasi
     
     o	Warna : warna kopi (coklat), background hitam
-    
+
+- Inspirasi Desain :
+
+  ![image](<img width="425" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/0bf8233f-78f5-4136-8b7c-4f124311752b">
+)
 
 ## 2. User Story
 
