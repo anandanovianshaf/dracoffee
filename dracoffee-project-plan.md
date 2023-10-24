@@ -1,6 +1,21 @@
 ## 1.1 Latar Belakang
 
-bla bla bla
+Disini saya akan membuat website bisnis yang bertemakan CoffeeShop. Didalam website ini akan terdapat homepage tentang café saya, menu yang disajikan, product yang bisa dibeli, dan info seputar café saya dan lokasinya. Selain itu pengguna bisa menggunakan fitur seperti navbar, search, add to cart, dll. 
+     
+Proses Pembangunan Teknologi Informasi secara umum mengikuti Web Development Life Cycle.
+•	Analysis
+Analisis adalah tahapan ketika kita mencoba menganalisa website seperti apa akan dibuat
+•	Design
+Setelah itu saya akan mencoba mendesain sketsa dari website saya, kemudian didesain lebih jelas menggunakan Figma
+•	Development
+Setelah desain dan menentukan teknologi apa saja yang akan digunakan, kemudian saya akan mencoba mengaplikasikan desain tadi ke kodingan. Mulanya saya akan membuat struktur dasar menggunakan HTML, kemudian diberikan style menggunakan CSS, dan terakhir untuk fitut atau interaksi pengguna menggunakan JavaScript.
+•	Testing & Review
+Setelah ketiga tahapan tadi, website yang sudah hamper selesai ditest terlebih dahulu, diperiksa semuanya dan dicari kesalahannya bila ada. Setelah itu saya mencoba meminta review ke orang lain untuk memberikan pendapat dan kritik mereka.
+•	Deployment
+Setelah website saya dipastikan sempurna dan tidak ada kesalahan, juga sudah mendapatkan review yang baik, maka saya akan upload websitenya di akun github saya, yang kemudian akan saya hosting ke internet. Sehingga website saya bisa diakses melalui internet.
+•	Maintenance
+Setelah berhasil mengupload websitenya, sekarang tinggal tahapan maintenance. Setelah mendeploy website untuk beberapa hari, saya akan mencoba cek apakah ada kerusakan atau pun kesalahan ketika mengakses website saya dari internet browser.
+
 
 ## 1.2. Deksripsi Teknologi Informasi
 
@@ -8,7 +23,23 @@ bla bla bla
 
 ## 1.3. Branding
 
-bla bla bla
+Pada tahap ini kita akan mengeksplorasi branding dari system yang dibuat. Branding meliputi :
+•	Merk = Dracoffee (terinspirasi dari nama rasi bintang “Draco”)
+•	Tagline = “ Behind every great day is a cup of coffee “
+•	Campaign = Bagaimana membuat website yang menyediakan info bagi pembeli tentang bisnis dracoffee, maupun melakukan transaksi secara online agar memudahkan pembeli
+•	Target User :
+    o	Usia 15+
+    o	Orang yang senang minum kopi
+    o	Orang yang ingin melihat referensi coffeeshop
+    o	Orang yang suka membeli barang (khususnya kopi) secara online
+    o	Orang yang sering mengeksplor coffeeshop
+    o	Orang yang ingin melihat menu sebelum datang ke coffeeshopnya
+    •	User Experience :
+    o	Mudah
+    o	Menarik
+    o	Sederhana
+    o	Menginspirasi
+    o	Warna : warna kopi (coklat), background hitam
 
 ## 2. User Story
 
