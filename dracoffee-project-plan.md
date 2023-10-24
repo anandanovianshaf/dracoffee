@@ -74,14 +74,21 @@ Pada tahap ini kita akan mengeksplorasi branding dari system yang dibuat. Brandi
 
 - Inspirasi Desain :
 
-  ![image](<img width="425" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/0bf8233f-78f5-4136-8b7c-4f124311752b">
-)
+<img width="425" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/e7430299-146f-4784-9ce8-c536ccbc0ade">
+
+
+<img width="550" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/fd32d28b-e2cb-4174-a7eb-8a7ba3421883">
+
 
 ## 2. User Story
 
-bla | bla | bla | bla
+Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+Pengguna | Mengklik Search | Bisa mencari produk yang diinginkan | ⭐⭐⭐⭐
+Pengguna | Mengklik "add to cart" | Bisa menambahkan produk ke shopping cart | ⭐⭐⭐⭐⭐
+Pengguna | Mengklik Navigation Bar di ukuran kecil | Lebih rapih dan tidak berantakan | ⭐⭐⭐
+Pengguna | Mengklik Detail Product | Bisa memunculkan modal box yang berisi detail product | ⭐⭐⭐⭐⭐
+
 
 ## 3. Struktur Data
 
