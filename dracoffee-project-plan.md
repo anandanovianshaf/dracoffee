@@ -1,6 +1,7 @@
 ## 1.1 Latar Belakang
 
-Disini saya akan membuat website bisnis yang bertemakan CoffeeShop. Didalam website ini akan terdapat homepage tentang café saya, menu yang disajikan, product yang bisa dibeli, dan info seputar café saya dan lokasinya. Selain itu pengguna bisa menggunakan fitur seperti navbar, search, add to cart, dll. 
+Disini saya akan membuat website bisnis yang bertemakan CoffeeShop. Alasan saya membuat website ini agar pelanggan dapat melihat informasi seputar coffeeshop tersebut, menu dan produk apa saja yang tersedia, maupun lokasinya.
+
      
 Proses Pembangunan Teknologi Informasi secara umum mengikuti Web Development Life Cycle.
 
@@ -31,7 +32,9 @@ Setelah berhasil mengupload websitenya, sekarang tinggal tahapan maintenance. Se
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+Didalam website ini akan terdapat homepage tentang landing page café saya, menu yang disajikan, product yang bisa dibeli, dan info seputar café saya dan lokasinya. Selain itu pengguna bisa menggunakan fitur seperti navbar, search, add to cart, dll. 
+
+Fitur tersebut dapat kita dapatkan menggunakan bahasa JavaScript.
 
 ## 1.3. Branding
 
