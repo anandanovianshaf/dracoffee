@@ -3,31 +3,31 @@
 Disini saya akan membuat website bisnis yang bertemakan CoffeeShop. Alasan saya membuat website ini agar pelanggan dapat melihat informasi seputar coffeeshop tersebut, menu dan produk apa saja yang tersedia, maupun lokasinya.
 
      
-Proses Pembangunan Teknologi Informasi secara umum mengikuti Web Development Life Cycle.
+Proses Pembangunan Teknologi Informasi secara umum mengikuti Web Development Life Cycle :
 
-•	Analysis
 
-Analisis adalah tahapan ketika kita mencoba menganalisa website seperti apa akan dibuat
+   - Analysis
 
-•	Design
+     Analisis adalah tahapan ketika kita mencoba menganalisa website seperti apa akan dibuat
 
-Setelah itu saya akan mencoba mendesain sketsa dari website saya, kemudian didesain lebih jelas menggunakan Figma
+   -	Design
 
-•	Development
+    	Setelah itu saya akan mencoba mendesain sketsa dari website saya, kemudian didesain lebih jelas menggunakan Figma
 
-Setelah desain dan menentukan teknologi apa saja yang akan digunakan, kemudian saya akan mencoba mengaplikasikan desain tadi ke kodingan. Mulanya saya akan membuat struktur dasar menggunakan HTML, kemudian diberikan style menggunakan CSS, dan terakhir untuk fitut atau interaksi pengguna menggunakan JavaScript.
+   -	Development
+     Setelah desain dan menentukan teknologi apa saja yang akan digunakan, kemudian saya akan mencoba mengaplikasikan desain tadi ke kodingan. Mulanya saya akan membuat struktur dasar menggunakan HTML, kemudian diberikan style menggunakan CSS, dan terakhir untuk fitut atau interaksi pengguna menggunakan JavaScript.
 
-•	Testing & Review
+   - Testing & Review
 
-Setelah ketiga tahapan tadi, website yang sudah hamper selesai ditest terlebih dahulu, diperiksa semuanya dan dicari kesalahannya bila ada. Setelah itu saya mencoba meminta review ke orang lain untuk memberikan pendapat dan kritik mereka.
+     Setelah ketiga tahapan tadi, website yang sudah hamper selesai ditest terlebih dahulu, diperiksa semuanya dan dicari kesalahannya bila ada. Setelah itu saya mencoba meminta review ke orang lain untuk memberikan pendapat dan kritik mereka.
 
-•	Deployment
+   - Deployment
 
-Setelah website saya dipastikan sempurna dan tidak ada kesalahan, juga sudah mendapatkan review yang baik, maka saya akan upload websitenya di akun github saya, yang kemudian akan saya hosting ke internet. Sehingga website saya bisa diakses melalui internet.
+     Setelah website saya dipastikan sempurna dan tidak ada kesalahan, juga sudah mendapatkan review yang baik, maka saya akan upload websitenya di akun github saya, yang kemudian akan saya hosting ke internet. Sehingga website saya bisa diakses melalui internet.
 
-•	Maintenance
+   - Maintenance
 
-Setelah berhasil mengupload websitenya, sekarang tinggal tahapan maintenance. Setelah mendeploy website untuk beberapa hari, saya akan mencoba cek apakah ada kerusakan atau pun kesalahan ketika mengakses website saya dari internet browser.
+     Setelah berhasil mengupload websitenya, sekarang tinggal tahapan maintenance. Setelah mendeploy website untuk beberapa hari, saya akan mencoba cek apakah ada kerusakan atau pun kesalahan ketika mengakses website saya dari internet browser.
 
 
 ## 1.2. Deksripsi Teknologi Informasi
@@ -111,13 +111,36 @@ bla bla bla
 ## 6. Desain User Experience dan User Interface
 - Ini adalah link figma saya
   https://www.figma.com/file/2Q3f3SrSDHTnylwDSUJnJl/dracoffee-design?type=design&mode=design&t=ByOMLVuTpahXCXyJ-1
-- <img width="512" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/35d185f4-d9f0-4f66-b3fb-73ba26f1fb66">
--> 
-<img width="416" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/33315e01-20f9-4062-b504-43440711b930">
+  
+1. Ini adalah desain ui page website saya
 
-- <img width="404" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/a8729978-ff5a-4c4b-b4c4-68841dfa809d">
+<img width="512" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/35d185f4-d9f0-4f66-b3fb-73ba26f1fb66">
 
-- <img width="557" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/e14f9452-213c-46d5-a810-9f8403825ea6">
+
+ Ketika search di klik, akan keluar search bar
+ 
+   <img width="416" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/33315e01-20f9-4062-b504-43440711b930">
+
+
+
+
+2. Tampilan page sudah responsive, dibawah adalah gambar page di ukuran smartphone.
+
+     Navigation bar akan berpindah ke dalam navbar menu, ketika di klik akan memunculkan navbar
+
+     <img width="404" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/a8729978-ff5a-4c4b-b4c4-68841dfa809d">
+
+
+
+3. Dibawah tampilan page di bagian product
+
+  - Ketika button mata di klik, akan muncul modal box yang menampilkan detail product
+   
+     <img width="557" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/e14f9452-213c-46d5-a810-9f8403825ea6">
+
+  - Ketika button mata di klik, akan muncul modal box yang menampilkan detail product
+   
+      <img width="490" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/498ac68c-c0c7-4bd0-91e9-96375de532af">
 
 
 
