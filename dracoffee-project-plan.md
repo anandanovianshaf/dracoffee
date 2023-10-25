@@ -111,10 +111,14 @@ bla bla bla
 ## 6. Desain User Experience dan User Interface
 - Ini adalah link figma saya
   https://www.figma.com/file/2Q3f3SrSDHTnylwDSUJnJl/dracoffee-design?type=design&mode=design&t=ByOMLVuTpahXCXyJ-1
-<img width="512" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/35d185f4-d9f0-4f66-b3fb-73ba26f1fb66">
+- <img width="512" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/35d185f4-d9f0-4f66-b3fb-73ba26f1fb66">
+-> 
 <img width="416" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/33315e01-20f9-4062-b504-43440711b930">
 
-<img width="404" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/a8729978-ff5a-4c4b-b4c4-68841dfa809d">
+- <img width="404" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/a8729978-ff5a-4c4b-b4c4-68841dfa809d">
+
+- <img width="557" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/e14f9452-213c-46d5-a810-9f8403825ea6">
+
 
 
 
