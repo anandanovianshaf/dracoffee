@@ -138,7 +138,7 @@ bla bla bla
    
      <img width="557" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/e14f9452-213c-46d5-a810-9f8403825ea6">
 
-  - Ketika button mata di klik, akan muncul modal box yang menampilkan detail product
+  - Ketika icon shopping cart di navbar di klik, akan muncul produk yang sudah ditambahkan ke shopping cart
    
       <img width="490" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/498ac68c-c0c7-4bd0-91e9-96375de532af">
 
