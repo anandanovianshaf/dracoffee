@@ -109,9 +109,10 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 bla bla bla
 
 ## 6. Desain User Experience dan User Interface
+- Ini adalah link figma saya
+  https://www.figma.com/file/2Q3f3SrSDHTnylwDSUJnJl/dracoffee-design?type=design&mode=design&t=ByOMLVuTpahXCXyJ-1
+<img width="512" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/35d185f4-d9f0-4f66-b3fb-73ba26f1fb66">
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
 
 ## 7. Demonstrasi Video
 
