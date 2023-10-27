@@ -112,7 +112,13 @@ flowchart BT
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+- UI/UX : Figma
+- Text Editor : Visual Studio Code
+- Web Languange : HTML, CSS
+- Programming Languange : Javascript
+- Database : MySQL
+- Library : Feathericons
+- Framework : Bootstrap & React JS
 
 ## 6. Desain User Experience dan User Interface
 - Ini adalah link figma saya
