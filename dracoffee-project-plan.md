@@ -101,8 +101,14 @@ erDiagram
 ```
 
 ## 4. Arsitektur Sistem
+```mermaid
+flowchart BT 
+  subgraph arsitektur
+    B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: JavaScript - Express.js] 
+    C <--> D[Database: PostgreSQL] 
+  end
+```
 
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
 
 ## 5. Teknologi, Library, dan Framework
 
