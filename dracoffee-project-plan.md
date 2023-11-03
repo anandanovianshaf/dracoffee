@@ -57,20 +57,70 @@ Pada tahap ini kita akan mengeksplorasi branding dari system yang dibuat. Brandi
 
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
-Pengguna | Mengklik Search | Bisa mencari produk yang diinginkan | ⭐⭐⭐⭐
-Pengguna | Mengklik "add to cart" | Bisa menambahkan produk ke shopping cart | ⭐⭐⭐⭐⭐
-Pengguna | Mengklik Navigation Bar di ukuran kecil | Lebih rapih dan tidak berantakan | ⭐⭐⭐
-Pengguna | Mengklik Detail Product | Bisa memunculkan modal box yang berisi detail product | ⭐⭐⭐⭐⭐
-
+Customer | Mengklik Search | Bisa mencari produk yang diinginkan | ⭐⭐⭐⭐
+Customer | Mengklik Navigation Bar di ukuran kecil | Pindah ke bagian tertentu dengan cepat | ⭐⭐⭐
+Customer | Mengklik Lokasi Cafe | Melihat dimana letak lokasi Cafe | ⭐⭐⭐⭐
+Customer | Melihat Menu di Kafe | Bisa melihat menu yang tersedia beserta hargany di kafe | ⭐⭐⭐⭐⭐
+Customer | Melihat Product | Bisa melihat product yang dijual dan memilih product apa yang akan dibeli | ⭐⭐⭐⭐⭐
+Customer | Mengklik Detail Product | Bisa memunculkan modal box yang berisi detail product | ⭐⭐⭐⭐
+Customer | Mengklik "add to cart" | Bisa menambahkan produk ke shopping cart | ⭐⭐⭐⭐⭐
+Customer | Mengklik "order now" | Bisa mengorder pesanan yang sudah dimasukan ke shopping cart | ⭐⭐⭐⭐⭐
+Customer | Memasukan Alamat Pengiriman | Pesanan yang tadi dibuat bisa diantar ke alamat customer | ⭐⭐⭐⭐⭐
+Customer | Memilih Payment | Bisa membayar pesanan yang tadi sudah di order untuk diproses | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
+Berikut adalah struktur data Entity Relationship Diagram (ERP) dari project website coffeeshop saya : 
 
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+    Coffeeshop ||--o{ Employee : "Employ"
+     Coffeeshop {
+        bigInt IDcoffeeshop
+        string nameShop
+        string addressShop
+        string emailShop
+        int phoneShop
+    }
+    Employee {
+        bigInt IDemployee
+        string nameEmployee
+        string addressEmployee
+        string emailEmployee
+        int phoneEmployee
+    }
+    Coffeeshop ||--o{ Products : "Selling"
+    Products {
+        bigInt IDproducts
+        string nameProducts
+        string descriptionProducts
+        int priceProducts
+
+    }
+    Coffeeshop ||--o{ Customer : "Serve"
+    Customer {
+        bigInt IDcustomer
+        string nameCustomer
+        string addressCustomer
+        string emailCustomer
+        int phoneCustomer
+
+    }
+    Order }|..|{ Products : "Contain"
+    Order {
+        bigInt orderID
+        datetime timeOrder
+        int totalPrice
+    }
+    Order_Item {
+        bigInt IDitem
+        int totalOrder
+    }
+    Employee }|..|{ Order : "Create"
+    Customer }|..|{ Order : "Ordering"
+    Products ||--|{ Order_Item : "Which Contain"
+    Order_Item }|..|{ Order : "Which Include"
+
 ```
 
 ## 4. Arsitektur Sistem
