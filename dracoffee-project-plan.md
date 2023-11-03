@@ -21,31 +21,31 @@ Pada tahap ini kita akan mengeksplorasi branding dari system yang dibuat. Brandi
 
 •	Target User :
 
-    o	Usia 15+
+-	Usia 15+
     
-    o	Orang yang senang minum kopi
+-	Orang yang senang minum kopi
     
-    o	Orang yang ingin melihat referensi coffeeshop
+-	Orang yang ingin melihat referensi coffeeshop
     
-    o	Orang yang suka membeli barang (khususnya kopi) secara online
+-	Orang yang suka membeli barang (khususnya kopi) secara online
     
-    o	Orang yang sering mengeksplor coffeeshop
+-	Orang yang sering mengeksplor coffeeshop
     
-    o	Orang yang ingin melihat menu sebelum datang ke coffeeshopnya
+-	Orang yang ingin melihat menu sebelum datang ke coffeeshopnya
     
-    •	User Experience :
+•	User Experience :
     
-    o	Mudah
+-	Mudah
+   
+-	Menarik
     
-    o	Menarik
+-	Sederhana
     
-    o	Sederhana
+-	Menginspirasi
     
-    o	Menginspirasi
-    
-    o	Warna : warna kopi (coklat), background hitam
+-	Warna : warna kopi (coklat), background hitam
 
-- Inspirasi Desain :
+• Inspirasi Desain :
 
 <img width="425" alt="image" src="https://github.com/anandanovianshaf/dracoffee/assets/144409312/e7430299-146f-4784-9ce8-c536ccbc0ade">
 
@@ -57,16 +57,22 @@ Pada tahap ini kita akan mengeksplorasi branding dari system yang dibuat. Brandi
 
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
+Customer | Melihat Jadwal Operasional | Bisa mengetahui kapan coffeeshop buka dan bisa melayani customer | ⭐⭐⭐⭐
 Customer | Mengklik Search | Bisa mencari produk yang diinginkan | ⭐⭐⭐⭐
 Customer | Mengklik Navigation Bar di ukuran kecil | Pindah ke bagian tertentu dengan cepat | ⭐⭐⭐
 Customer | Mengklik Lokasi Cafe | Melihat dimana letak lokasi Cafe | ⭐⭐⭐⭐
 Customer | Melihat Menu di Kafe | Bisa melihat menu yang tersedia beserta hargany di kafe | ⭐⭐⭐⭐⭐
+Customer | Melihat Rating dari Menu | Bisa mengetahui rating menu tertentu dari pelanggan lain | ⭐⭐⭐⭐
 Customer | Melihat Product | Bisa melihat product yang dijual dan memilih product apa yang akan dibeli | ⭐⭐⭐⭐⭐
 Customer | Mengklik Detail Product | Bisa memunculkan modal box yang berisi detail product | ⭐⭐⭐⭐
 Customer | Mengklik "add to cart" | Bisa menambahkan produk ke shopping cart | ⭐⭐⭐⭐⭐
 Customer | Mengklik "order now" | Bisa mengorder pesanan yang sudah dimasukan ke shopping cart | ⭐⭐⭐⭐⭐
-Customer | Memasukan Alamat Pengiriman | Pesanan yang tadi dibuat bisa diantar ke alamat customer | ⭐⭐⭐⭐⭐
-Customer | Memilih Payment | Bisa membayar pesanan yang tadi sudah di order untuk diproses | ⭐⭐⭐⭐⭐
+Customer | Memasukan Informasi Customer | Bisa memproses order yang sudah dibuat | ⭐⭐⭐⭐⭐
+Customer | Memasukan Alamat Pengiriman | Pesanan yang tadi dibuat bisa diantar ke alamat customer | ⭐⭐⭐⭐
+Customer | Memilih Payment | Bisa membayar pesanan yang tadi sudah di order untuk diproses dan diantar | ⭐⭐⭐⭐⭐
+Customer | Menerima "notifikasi" Order di Proses | Bisa mendapatkan info jikalau order sudah berhasil dibuat | ⭐⭐⭐⭐ 
+Employee | Menangani Order | Bisa membuat dan memproses orderan yang dibuat oleh Customer | ⭐⭐⭐⭐⭐
+Employee | Mengantar Order yang sudah dibuat | Bisa mengirim or
 
 ## 3. Struktur Data
 
@@ -81,6 +87,7 @@ erDiagram
         string addressShop
         string emailShop
         int phoneShop
+        datetime openSchedule
     }
     Employee {
         bigInt IDemployee
