@@ -147,8 +147,8 @@ flowchart BT
 - Web Languange : HTML, CSS
 - Programming Languange : Javascript
 - Database : MySQL
-- Library : Feathericons
-- Framework : Bootstrap & React JS
+- Library : Feathericons & Bootstrap
+- Framework : React JS
 
 ## 6. Desain User Experience dan User Interface
 - Ini adalah link figma saya
