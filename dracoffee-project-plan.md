@@ -1,7 +1,6 @@
 ## 1.1 Latar Belakang
 
-Disini saya akan membuat website bisnis yang bertemakan CoffeeShop. Alasan saya membuat website ini agar pelanggan dapat melihat informasi seputar coffeeshop tersebut, menu dan produk apa saja yang tersedia, maupun lokasinya.
-
+Dracoffee adalah website bisnis coffeeshop yang menyediakan informasi seputar kopi yang ada di kafe Dracoffee, produk yang dijual secara online sehingga pembeli bisa membelinya dari manapun dan juga beberapa informasi lainnya. Customer yang tertarik bisa melihat lokasi kafenya dan datang ke tempat secara langsung, juga bisa membeli product yang tersedia secara online.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
