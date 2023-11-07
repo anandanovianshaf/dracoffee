@@ -4,9 +4,16 @@ Dracoffee adalah website bisnis coffeeshop yang menyediakan informasi seputar ko
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Didalam website ini akan terdapat homepage tentang landing page café saya, menu yang disajikan, product yang bisa dibeli, dan info seputar café saya dan lokasinya. Selain itu pengguna bisa menggunakan fitur seperti navbar, search, add to cart, dll. 
+Dracoffee memberikan pengalaman yang menarik bagi peminat kopi. Kami menyediakan pelayanan yang sangat mudah dan menarik, serta interaktif bagi konsumen kopi di coffeeshop kami. Website ini bertujuan memberikan kemudahan akses bagi mereka yang ingin menikmati secangkir kopi. Kami memberikan info yang detail serta menarik tentang produk kopi yang kami jual di kafe. Konsumen bisa mencari kopi favorit mereka melalui fitur search dan memberikan bintang atau rate terhadap produk-produk kami. Selain itu pelanggan juga bisa membeli kopi dari rumah, kantor, ataupun dimana saja dengan fitur delivery order. Bagi yang tertarik dengan kafe kami, juga sudah kita sediakan informasi lebih lanjut soal lokasi Dracoffee berada, sehingga konsumen tidak perlu lagi susah untuk pergi ke kafe kami. Selain itu kami juga menyediakan fitur untuk berbincang dengan pihak dari Dracoffee, jika ada hal yang ingin konsumen tanyakan secara daring. 
 
-Fitur tersebut dapat kita dapatkan menggunakan bahasa JavaScript.
+Teknologi yang akan saya gunakan untuk membuat dan mengembangkan website bisnis Dracoffee ini antara lain : 
+
+• HTML (Hypertext Markup Languange)
+• CSS (Cascade Style Sheet)
+• Javascript
+• React JS dan Bootstrap
+• Figma
+• Visual Studio Code
 
 ## 1.3. Branding
 
@@ -71,7 +78,9 @@ Customer | Memasukan Alamat Pengiriman | Pesanan yang tadi dibuat bisa diantar k
 Customer | Memilih Payment | Bisa membayar pesanan yang tadi sudah di order untuk diproses dan diantar | ⭐⭐⭐⭐⭐
 Customer | Menerima "notifikasi" Order di Proses | Bisa mendapatkan info jikalau order sudah berhasil dibuat | ⭐⭐⭐⭐ 
 Employee | Menangani Order | Bisa membuat dan memproses orderan yang dibuat oleh Customer | ⭐⭐⭐⭐⭐
-Employee | Mengantar Order yang sudah dibuat | Bisa mengirim or
+Employee | Mengantar Order yang sudah dibuat | Bisa mengirim order yang sudah jadi dan dikirim ke customer | ⭐⭐⭐⭐
+Employee | Memberikan "notifikasi" order sedang diantar | Bisa memberi tahu kepada client bahwa order sedang diantar ke lokasi | ⭐⭐⭐⭐
+Customer | Menerima "notifikasi" order sudah sampai di tujuan | Bisa mendapatkan info bahwa orderan sudah sampai ke lokasi | ⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
@@ -131,11 +140,8 @@ erDiagram
 
 ## 4. Arsitektur Sistem
 ```mermaid
-flowchart BT 
-  subgraph arsitektur
-    B[Web Server: JavaScript - React JS] <--> C[Aplikasi Web Backend: JavaScript] 
-    C <--> D[Database: MySQL] 
-  end
+flowchart TD
+    id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: React JS] <--> id3[Web Server: React JS]  
 ```
 
 
