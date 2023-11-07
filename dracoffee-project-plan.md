@@ -218,16 +218,45 @@ Link youtube nya
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+   Mesin komputasi dan sistem operasi memainkan peran krusial dalam produk teknologi informasi kita. Mesin komputasi, yang mencakup perangkat keras seperti CPU, RAM, dan perangkat penyimpanan, bertanggung jawab untuk menjalankan operasi komputasi yang kompleks. Dalam hal ini, mesin komputasi berperan dalam memproses data dan menjalankan aplikasi perangkat lunak. 
+
+   Sistem operasi, di sisi lain, adalah perangkat lunak yang mengelola sumber daya perangkat keras, memfasilitasi komunikasi antara perangkat keras dan perangkat lunak, serta menyediakan lingkungan untuk eksekusi aplikasi. Sistem operasi memastikan bahwa aplikasi dapat berjalan dengan efisien dan aman pada mesin komputasi. Oleh karena itu, mesin komputasi dan sistem operasi adalah fondasi dari produk teknologi informasi kita.
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+   Algoritma, struktur data, dan bahasa pemrograman adalah tiga komponen kunci dalam pengembangan produk teknologi informasi. Algoritma adalah panduan langkah-demi-langkah untuk menyelesaikan masalah atau menjalankan tugas tertentu. Mereka membentuk inti dari berbagai fungsi dan fitur dalam produk teknologi informasi. 
+
+   Struktur data adalah cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Dalam penggunaan struktur data kali ini, saya akan menggunakan Entity Relationship Diagram (ERP). Entity Relationship Diagram (ERD) adalah suatu diagram yang digunakan untuk merancang suatu basis data, dipergunakan untuk memperlihatkan hubungan atau relasi antar entitas atau objek yang terlihat beserta atributnya.
+
+   Bahasa pemrograman adalah bahasa manusia yang dimodifikasi sedemikian rupa sehingga bisa dimengerti oleh komputer untuk menjalankan tugas tertentu. Dalam produk saya kali ini, saya menggunakan Bahasa pemograman JavaScript untuk membangun website saya. Selain itu saya juga menggunakan HTML(Hypertext Markup Languange) dan CSS (Cascade Style Sheet) untuk membangun kerangka dasar website saya.
+
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
+Proses Pembangunan Teknologi Informasi secara umum mengikuti Web Development Life Cycle 
+   - Analysis
+     
+Analisis adalah tahapan ketika kita mencoba menganalisa website seperti apa akan dibuat
+   -	Design
+     
+    	Setelah itu saya akan mencoba mendesain sketsa dari website saya, kemudian didesain lebih jelas menggunakan Figma
+   -	Development
+
+   Setelah berhasil mengupload websitenya, sekarang tinggal tahapan maintenance. Setelah mendeploy website untuk beberapa hari, saya akan mencoba cek apakah ada kerusakan atau pun kesalahan ketika mengakses website saya dari internet browser.
+   - Testing & Review
+
+     Setelah ketiga tahapan tadi, website yang sudah hamper selesai ditest terlebih dahulu, diperiksa semuanya dan dicari kesalahannya bila ada. Setelah itu saya mencoba meminta review ke orang lain untuk memberikan pendapat dan kritik mereka.
+   - Deployment
+
+     Setelah website saya dipastikan sempurna dan tidak ada kesalahan, juga sudah mendapatkan review yang baik, maka saya akan upload websitenya di akun github saya, yang kemudian akan saya hosting ke internet. Sehingga website saya bisa diakses melalui internet.
+   - Maintenance
+
+     Setelah berhasil mengupload websitenya, sekarang tinggal tahapan maintenance. Setelah mendeploy website untuk beberapa hari, saya akan mencoba cek apakah ada kerusakan atau pun kesalahan ketika mengakses website saya dari internet browser.
 
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+   Database atau sistem basis data adalah komponen penting dalam produk teknologi informasi, terutama dalam hal penyimpanan dan pengelolaan data. Mereka berperan dalam menyimpan, mengorganisir, dan menyediakan akses ke informasi. Database memungkinkan aplikasi untuk menyimpan data secara persisten, yang berarti data tetap ada setelah aplikasi dimatikan. Mereka juga memungkinkan untuk melakukan pencarian, penyaringan, dan analisis data dengan efisien. 
+
+ Selain itu, sistem basis data dapat menyediakan tingkat keamanan dan integritas data yang penting dalam aplikasi yang mengelola informasi sensitif. Dengan demikian, database berperan dalam memastikan bahwa data yang diperlukan untuk produk teknologi informasi dapat disimpan dan diakses dengan efisien dan aman.
+
