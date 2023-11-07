@@ -8,12 +8,31 @@ Dracoffee memberikan pengalaman yang menarik bagi peminat kopi. Kami menyediakan
 
 Teknologi yang akan saya gunakan untuk membuat dan mengembangkan website bisnis Dracoffee ini antara lain : 
 
-• HTML (Hypertext Markup Languange)
-• CSS (Cascade Style Sheet)
-• Javascript
-• React JS dan Bootstrap
-• Figma
-• Visual Studio Code
+•     HTML (Hypertext Markup Languange)
+
+   HTML adalah bahasa markup standar untuk membuat halaman website. Bahasa ini berfungsi untuk membuat struktur website hingga menyusun format teks dan gambar pada halaman web
+
+•     CSS (Cascade Style Sheet)
+
+CSS adalah bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa markup, seperti HTML. CSS berfungsi untuk memisahkan konten dari tampilan visualnya di situs.
+
+•     Javascript
+
+JavaScript adalah bahasa pemrograman yang digunakan developer untuk membuat halaman web yang interaktif. Dari menyegarkan umpan media sosial hingga menampilkan animasi dan peta interaktif, fungsi JavaScript dapat meningkatkan pengalaman pengguna situs web. Sebagai bahasa skrip sisi klien, JavaScript adalah salah satu teknologi inti dari World Wide Web
+
+•     React JS dan Bootstrap
+
+React JS merupakan library JavaScript yang digunakan untuk membuat user interface (UI) website. React JS berisi library kode-kode JavaScript yang juga berfungsi untuk mempermudah dan mempercepat web development.
+
+Bootstrap adalah framework web development berbasis HTML, CSS, dan JavaScript yang dirancang untuk mempercepat proses pengembangan web responsive dan mobile-first (memprioritaskan perangkat seluler).
+
+•     Figma
+
+Figma adalah salah satu tools atau aplikasi desain yang dapat digunakan pada windows dan Mac OS untuk membuat prototype aplikasi serta berbagai desain lainnya. Aplikasi ini berbasis vektor, sehingga memang sangat cocok digunakan untuk membuat user interface aplikasi atau website.
+
+•     Visual Studio Code
+
+Visual Studio Code adalah aplikasi code editor buatan Microsoft yang dapat dijalankan di semua perangkat desktop secara gratis. Kelengkapan fitur dan ekstensi membuat code editor ini menjadi pilihan utama para pengembang. Visual Studio Code bahkan mendukung hampir semua sistem operasi seperti Windows, Mac OS, Linux, dan lain sebagainya.
 
 ## 1.3. Branding
 
@@ -207,31 +226,7 @@ Link youtube nya di detik jawaban ini
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
-Proses Pembangunan Teknologi Informasi secara umum mengikuti Web Development Life Cycle :
 
-
-   - Analysis
-
-     Analisis adalah tahapan ketika kita mencoba menganalisa website seperti apa akan dibuat
-
-   -	Design
-
-    	Setelah itu saya akan mencoba mendesain sketsa dari website saya, kemudian didesain lebih jelas menggunakan Figma
-
-   -	Development
-     Setelah desain dan menentukan teknologi apa saja yang akan digunakan, kemudian saya akan mencoba mengaplikasikan desain tadi ke kodingan. Mulanya saya akan membuat struktur dasar menggunakan HTML, kemudian diberikan style menggunakan CSS, dan terakhir untuk fitut atau interaksi pengguna menggunakan JavaScript.
-
-   - Testing & Review
-
-     Setelah ketiga tahapan tadi, website yang sudah hamper selesai ditest terlebih dahulu, diperiksa semuanya dan dicari kesalahannya bila ada. Setelah itu saya mencoba meminta review ke orang lain untuk memberikan pendapat dan kritik mereka.
-
-   - Deployment
-
-     Setelah website saya dipastikan sempurna dan tidak ada kesalahan, juga sudah mendapatkan review yang baik, maka saya akan upload websitenya di akun github saya, yang kemudian akan saya hosting ke internet. Sehingga website saya bisa diakses melalui internet.
-
-   - Maintenance
-
-     Setelah berhasil mengupload websitenya, sekarang tinggal tahapan maintenance. Setelah mendeploy website untuk beberapa hari, saya akan mencoba cek apakah ada kerusakan atau pun kesalahan ketika mengakses website saya dari internet browser.
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
