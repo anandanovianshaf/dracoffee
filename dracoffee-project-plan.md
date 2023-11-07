@@ -133,8 +133,8 @@ erDiagram
 ```mermaid
 flowchart BT 
   subgraph arsitektur
-    B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: JavaScript - Express.js] 
-    C <--> D[Database: PostgreSQL] 
+    B[Web Server: JavaScript - React JS] <--> C[Aplikasi Web Backend: JavaScript] 
+    C <--> D[Database: MySQL] 
   end
 ```
 
